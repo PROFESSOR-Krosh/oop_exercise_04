@@ -1,0 +1,7 @@
+Tri int tuple
+0 0  3 5  7 9
+Squ double class
+1.1 1.1  5.5 5.5
+Rec int class
+0 0  4 0  4 3  0 3
+tuple_work
